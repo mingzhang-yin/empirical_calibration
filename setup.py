@@ -33,8 +33,7 @@ setup(
         'pandas',
         'patsy',
         'scipy',
-        'six',
-        'sklearn',
+        'six'
     ],
     classifiers=[
         'Development Status :: 4 - Beta',
